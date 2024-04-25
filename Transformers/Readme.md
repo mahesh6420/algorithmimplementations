@@ -1,2 +1,4 @@
 
-This is an implementation of ViT model to classify 
+This is an implementation of ```Transformer``` model to classify 
+1. Transformers
+2. Visual Transformer (ViT)
